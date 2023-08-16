@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(243, 215, 220);
+}
+img{
+    height: 150px;
+    border-radius: 5px;
+    
+}
+.card{
+    display: flex;
+    align-items: center; 
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+    
+.card-header{
+    height:70px;
+    text-align: center;
+    background-color: white;
+    border-style: none;
+    
+}
+h5, h6{
+    font-weight: bold;
+}
+.col-sm-12{
+    display: flex;
+    justify-content: center;
+}
+
+#title{
+    font-weight: bolder;
+    color: rgb(35, 46, 42);
+}
+.btn-primary{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
